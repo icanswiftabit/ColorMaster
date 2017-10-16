@@ -1,2 +1,2 @@
 # ColorMaster
-Example project showing usage of MultipeerConectivity framework
+Example project showing usage of MultipeerConnectivity framework
